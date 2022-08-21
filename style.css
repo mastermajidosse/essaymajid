@@ -1,0 +1,29 @@
+.body {
+    width: 435px;
+    align-items: left;
+}
+
+.leftside {
+    width: 90px;
+    align-items: left;
+}
+
+table {
+    float: left;
+}
+
+.s90{
+    height: 90px;
+}
+
+.s60{
+    height: 60px;
+}
+
+.s30{
+    height: 30px;
+}
+
+.s9{
+    height: 9px;
+}
