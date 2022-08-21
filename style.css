@@ -1,16 +1,24 @@
 .body {
+    margin-left: 33px;
     width: 435px;
     align-items: left;
 }
 
 .leftside {
-    width: 90px;
-    align-items: left;
+    width: 80px;
+    align-items: center;
+    text-align: center;
+    background-color: #666699;
+    color: aliceblue;
+    font-size: 13px;
+    font-weight: bold;
 }
+ 
 
 table {
     float: left;
 }
+
 
 .s90{
     height: 90px;
@@ -23,7 +31,18 @@ table {
 .s30{
     height: 30px;
 }
+.s33{
+    height: 30px;
+    border: 1px solid;
+    color: white;
+}
 
+.s18{
+    height: 9px;
+}
 .s9{
     height: 9px;
+}
+.title{
+    color: saddlebrown; font-size: 26px; font-weight: bold; 
 }
