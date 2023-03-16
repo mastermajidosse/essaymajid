@@ -5,22 +5,22 @@ title = 'My New Hugo Site'
 [menu]
   [[menu.main]]
     name = "Home"
-    url = "/"
+    url = ""
     weight = 1
 
   [[menu.main]]
     name = "Articles"
-    url = "/articles/"
+    url = "articles/"
     weight = 2
 
   [[menu.main]]
     name = "Quotes"
-    url = "/quotes/"
+    url = "quotes/"
     weight = 6
 
   [[menu.main]]
     name = "Bio"
-    url = "/about/"
+    url = "about/"
     weight = 7
  
 
