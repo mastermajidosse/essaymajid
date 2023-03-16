@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tree on My New Hugo Site</title>
+    <link>www.elmajid.com/tags/tree/</link>
+    <description>Recent content in tree on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Mar 2023 15:07:41 +0100</lastBuildDate><atom:link href="www.elmajid.com/tags/tree/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>why startups struggle to succeed in poor countries</title>
+      <link>www.elmajid.com/articles/startups_struggle/</link>
+      <pubDate>Sun, 05 Mar 2023 15:07:41 +0100</pubDate>
+      
+      <guid>www.elmajid.com/articles/startups_struggle/</guid>
+      <description>cost : usa and morocco bereucracy : you need a 100 doc fund / innovation : i know 2 guys with a very good idea a saas busnis make decent money .. but they are slow with 30 costumer and they started in the first quarter in 2020 . their monthly revenue 600$ now regardless they are moving up if they got funds they will move a little faster so why risking a big stupid idea (chatgpt african version) when you can give 1% of that fund and accelerate an idea that already working and generating money</description>
+    </item>
+    
+    <item>
+      <title>A</title>
+      <link>www.elmajid.com/quotes/quotes/</link>
+      <pubDate>Sat, 05 Mar 2022 15:07:41 +0100</pubDate>
+      
+      <guid>www.elmajid.com/quotes/quotes/</guid>
+      <description>this is aaa</description>
+    </item>
+    
+  </channel>
+</rss>

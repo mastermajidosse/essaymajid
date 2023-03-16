@@ -1,0 +1,56 @@
+arch == who wrote what .. advance 
+content == articles.. if it's blog
+data == json like ..
+layout == footer header ...
+static == image css .. something not gonna change
+theme == pre build themes
+config == overall setting
+
+
+hugo new a.md
+hugo new articles/b.md
+
+// theme = 'ga-hugo'
+
+for ultras
+
+taxonomies:
+  category: categories
+  tag: tags
+  team: teams
+
+index.html it can be bo7dha
+
+
+
+  [[menu.main]]
+    name = "Imagine"
+    url = "/imagine/"
+    weight = 3
+    
+  [[menu.main]]
+    name = "Podcast"
+    url = "/podcast/"
+    weight = 4
+
+  [[menu.main]]
+    name = "FAQ"
+    url = "/FAQ/"
+    weight = 5
+
+
+    articles
+    
+<div style="border: 1px solid black; width: 200px; margin-left: 280px; ">
+     <div style="font-size:20px;">
+          <a style="color: black;" href="{{.Permalink}}">{{.Title}}</a>
+     </div>
+     <div style="color:grey; font-size:16px;">{{ dateFormat "Monday, Jan 2, 2006" .Date }}</div>
+     <!-- <div style="color:grey; font-size:16px;">{{ if .Params.tags }}<strong>Tags:</strong> {{range .Params.tags}}<a
+               href="{{ " /tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}{{end}}</div> -->
+     <!-- <div style="color:grey; font-size:16px;">{{ if .Params.categories }}<strong>Categories:</strong> {{range
+          .Params.categories}}<a href="{{ " /categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+          {{end}}{{end}}</div> -->
+
+     <p style="font-size:18px;">{{.Summary}}</p>
+</div>
