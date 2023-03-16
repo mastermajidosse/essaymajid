@@ -1,6 +1,8 @@
 baseURL = 'www.elmajid.com'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+canonifyURLs = true
+publishDir = 'docs'
 
 [menu]
   [[menu.main]]
