@@ -2,63 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>www.elmajid.com/</link>
+    <link>https://www.elmajid.com</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Mar 2023 22:07:22 +0100</lastBuildDate><atom:link href="www.elmajid.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Mar 2023 22:07:22 +0100</lastBuildDate><atom:link href="index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Best Super Power</title>
-      <link>www.elmajid.com/articles/superpower/</link>
+      <link>articles/superpower/</link>
       <pubDate>Wed, 15 Mar 2023 22:07:22 +0100</pubDate>
       
-      <guid>www.elmajid.com/articles/superpower/</guid>
+      <guid>articles/superpower/</guid>
       <description>Always asked myself this question . what if i can get anything i set my mind to , anything that is possible for a human being what will be the best hack in life if anything is possible if you are limitless (within the realm of possibility)
 I read a lot of novels manga watched a lot of fictional stories so i have some past reference. There&amp;rsquo;s one skill that kept being in my head .</description>
     </item>
     
     <item>
       <title>this is my most watched video flutter tuto</title>
-      <link>www.elmajid.com/faq/b-copy/</link>
+      <link>faq/b-copy/</link>
       <pubDate>Sun, 05 Mar 2023 15:09:02 +0100</pubDate>
       
-      <guid>www.elmajid.com/faq/b-copy/</guid>
+      <guid>faq/b-copy/</guid>
       <description>this is b.md</description>
     </item>
     
     <item>
       <title>this is my most watched video flutter tuto</title>
-      <link>www.elmajid.com/imagine/b-copy/</link>
+      <link>imagine/b-copy/</link>
       <pubDate>Sun, 05 Mar 2023 15:09:02 +0100</pubDate>
       
-      <guid>www.elmajid.com/imagine/b-copy/</guid>
+      <guid>imagine/b-copy/</guid>
       <description>this is b.md</description>
     </item>
     
     <item>
       <title>this is my most watched video flutter tuto</title>
-      <link>www.elmajid.com/podcast/b-copy/</link>
+      <link>podcast/b-copy/</link>
       <pubDate>Sun, 05 Mar 2023 15:09:02 +0100</pubDate>
       
-      <guid>www.elmajid.com/podcast/b-copy/</guid>
+      <guid>podcast/b-copy/</guid>
       <description>this is b.md</description>
     </item>
     
     <item>
       <title>why startups struggle to succeed in poor countries</title>
-      <link>www.elmajid.com/articles/startups_struggle/</link>
+      <link>articles/startups_struggle/</link>
       <pubDate>Sun, 05 Mar 2023 15:07:41 +0100</pubDate>
       
-      <guid>www.elmajid.com/articles/startups_struggle/</guid>
+      <guid>articles/startups_struggle/</guid>
       <description>cost : usa and morocco bereucracy : you need a 100 doc fund / innovation : i know 2 guys with a very good idea a saas busnis make decent money .. but they are slow with 30 costumer and they started in the first quarter in 2020 . their monthly revenue 600$ now regardless they are moving up if they got funds they will move a little faster so why risking a big stupid idea (chatgpt african version) when you can give 1% of that fund and accelerate an idea that already working and generating money</description>
     </item>
     
     <item>
       <title>A</title>
-      <link>www.elmajid.com/quotes/quotes/</link>
+      <link>quotes/</link>
       <pubDate>Sat, 05 Mar 2022 15:07:41 +0100</pubDate>
       
-      <guid>www.elmajid.com/quotes/quotes/</guid>
+      <guid>quotes/</guid>
       <description>this is aaa</description>
     </item>
     
