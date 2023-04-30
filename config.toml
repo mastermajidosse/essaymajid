@@ -7,22 +7,27 @@ relativeURLs = true
 
 [menu]
   [[menu.main]]
-    name = "Home"
+    name = "هوم"
     url = "/"
     weight = 1
 
   [[menu.main]]
-    name = "Articles"
+    name = "مقالات"
     url = "/articles"
     weight = 2
 
   [[menu.main]]
-    name = "Quotes"
+    name = "تخيل"
+    url = "/imagine"
+    weight = 3
+
+  [[menu.main]]
+    name = "اقتباسات"
     url = "/quotes"
     weight = 6
 
   [[menu.main]]
-    name = "Bio"
+    name = "بيو"
     url = "/about"
     weight = 7
  
