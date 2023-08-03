@@ -1,7 +1,7 @@
 ---
 title: "Meditationway"
 date: 2022-03-12T18:18:39+01:00
-draft: false
+draft: true
 author: "othman"
 ---
 

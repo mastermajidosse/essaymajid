@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>www.elmajid.com/articles/</loc>
-    <lastmod>2023-07-10T09:24:20+01:00</lastmod>
+    <loc>www.elmajid.com/general/</loc>
+    <lastmod>2023-08-03T13:36:25+01:00</lastmod>
   </url><url>
     <loc>www.elmajid.com/</loc>
-    <lastmod>2023-07-10T09:24:20+01:00</lastmod>
+    <lastmod>2023-08-03T13:36:25+01:00</lastmod>
+  </url><url>
+    <loc>www.elmajid.com/general/indulgence/</loc>
+    <lastmod>2023-08-03T13:36:25+01:00</lastmod>
+  </url><url>
+    <loc>www.elmajid.com/articles/</loc>
+    <lastmod>2023-08-03T13:27:32+01:00</lastmod>
+  </url><url>
+    <loc>www.elmajid.com/articles/cofounder/</loc>
+    <lastmod>2023-08-03T13:27:32+01:00</lastmod>
   </url><url>
     <loc>www.elmajid.com/articles/egypt/</loc>
     <lastmod>2023-07-10T09:24:20+01:00</lastmod>
   </url><url>
-    <loc>www.elmajid.com/articles/greatest/</loc>
+    <loc>www.elmajid.com/general/greatest/</loc>
     <lastmod>2023-07-08T14:22:35+01:00</lastmod>
   </url><url>
-    <loc>www.elmajid.com/articles/everything/</loc>
+    <loc>www.elmajid.com/general/evilhabit/</loc>
+    <lastmod>2023-07-03T13:45:58+01:00</lastmod>
+  </url><url>
+    <loc>www.elmajid.com/general/everything/</loc>
     <lastmod>2023-06-08T14:42:31+01:00</lastmod>
   </url><url>
     <loc>www.elmajid.com/b/</loc>
@@ -61,9 +73,6 @@
   </url><url>
     <loc>www.elmajid.com/imagine/superpower/</loc>
     <lastmod>2023-03-05T15:09:02+01:00</lastmod>
-  </url><url>
-    <loc>www.elmajid.com/articles/meditationway/</loc>
-    <lastmod>2022-03-12T18:18:39+01:00</lastmod>
   </url><url>
     <loc>www.elmajid.com/quotes/quotes/</loc>
     <lastmod>2022-03-05T15:07:41+01:00</lastmod>

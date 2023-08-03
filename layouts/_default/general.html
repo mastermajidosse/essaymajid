@@ -1,0 +1,42 @@
+{{ define "main" }}
+
+<div class="all">
+     <h1>مقالات</h1>
+     <br>
+
+     <table class="body">
+
+          {{.Content}}
+          {{ range .Pages }}
+          <tr>
+               <ul>
+                    <td>
+
+
+                         <a style="color: black;font-size: 18px;height: 30;" href="{{.RelPermalink}}">
+
+                              <li>{{.Title}} </li>
+                         </a>
+                    </td>
+               </ul>
+          </tr>
+          {{ end }}
+     </table>
+
+
+
+     <style>
+          .all {
+
+               /* margin-right: 10%; */
+               padding-top: 50px;
+               float: right;
+
+          }
+
+          h1 {
+               margin: 0 10% 0 0;
+               color: #834c4c;
+          }
+     </style>
+     {{ end }}
