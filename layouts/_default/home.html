@@ -3,7 +3,7 @@
 <div class="main">
 
     <br><br><br><br>
-    <img src='images/home.png' style="width: 410px;height: 400px;object-fit: cover;border-radius: 20px;" />
+    <img src='images/home.png' class="myimg" />
     <br><br><br>
     <table width="410" cellspacing="0">
         <tbody>
@@ -41,6 +41,13 @@
 
 
 <style>
+    .myimg {
+        width: 410px;
+        height: 400px;
+        object-fit: cover;
+        border-radius: 20px;
+    }
+
     .main {
         width: 200px;
         margin-right: 7%;
@@ -55,14 +62,33 @@
         font-size: 12px;
     }
 
-    .table2 {
-        background-color: #ff9922;
-        display: flex;
-    }
 
-    .table1 {
-        background-color: #ffcc33;
-        display: flex;
+
+    @media only screen and (max-width: 600px) {
+
+        .myimg {
+            width: 300px;
+            height: 300px;
+        }
+
+        .table2 {
+            background-color: #ff9922;
+            display: flex;
+            width: 200px;
+
+        }
+
+        .table1 {
+            background-color: #ffcc33;
+            display: flex;
+            width: 200px;
+
+        }
+
+        .main {
+            width: 200px;
+            display: table;
+        }
     }
 </style>
 {{ end }}

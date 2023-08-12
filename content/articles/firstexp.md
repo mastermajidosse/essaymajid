@@ -1,5 +1,5 @@
 ---
-title: "اول فشل"
+title: "التجربة الأولى"
 date: 2023-07-12T18:17:36+01:00
 draft: false
 author: "othman"
