@@ -67,7 +67,7 @@
      <br>
 
 
-     <div style="color:grey; font-size:16px;">Sunday, Mar 5, 2023</div>
+     <div style="color:grey; font-size:12px;margin-top: 30px;">Sunday, Mar 5, 2023</div>
      <div style="font-size:18px;"><p>this is b.md</p>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
@@ -75,6 +75,7 @@
 </div>
 
 </div>
+     <div style="color:grey; font-size:12px;margin-top: 30px;">otmane</div>
 </div>
 
 
@@ -91,6 +92,43 @@
      h2 {
           margin: 0;
           color: #834c4c;
+     }
+
+
+     @media only screen and (max-width: 600px) {
+          .leftside {
+               width: 95% !important;
+               position: absolute;
+               top: 3%;
+          }
+
+          .all {
+               margin-right: 6%;
+               padding-top: 15px;
+               width: 90%;
+               float: right;
+               text-align: right;
+               margin-bottom: 100px;
+          }
+
+          h2 {
+
+               font-size: 26px !important;
+               font-weight: bold;
+          }
+
+          table tr>* {
+               display: block;
+          }
+
+          table tr {
+               display: table-cell;
+               vertical-align: top;
+          }
+
+          table tr a {
+               float: none !important;
+          }
      }
 </style>
 
