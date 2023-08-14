@@ -138,6 +138,33 @@
 
 
     @media only screen and (max-width: 600px) {
+        .leftside {
+            width: 95% !important;
+            position: absolute;
+            top: 3%;
+        }
+
+
+
+        table tr>* {
+            display: block;
+        }
+
+        table tr {
+            display: table-cell;
+            vertical-align: top;
+
+        }
+
+        table tr a {
+            float: none !important;
+        }
+
+        .main {
+            width: 200px;
+            margin: 0 15px !important;
+            padding-top: 100px;
+        }
 
         .myimg {
             width: 300px;
@@ -160,10 +187,6 @@
 
         }
 
-        .main {
-            width: 200px;
-            display: table;
-        }
     }
 </style>
 
@@ -214,6 +237,7 @@
         height: 30px;
         border: 1px solid;
         color: white;
+        width: inherit;
     }
 
     .s18 {
