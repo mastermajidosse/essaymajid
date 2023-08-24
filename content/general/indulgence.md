@@ -1,7 +1,7 @@
 ---
 title: "صكوك الغفران"
 date: 2023-08-03T13:36:25+01:00
-draft: false
+draft: true
 author: "othman"
 ---
 
