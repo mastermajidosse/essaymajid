@@ -1,7 +1,7 @@
 ---
 title: "عادة جديدة"
 date: 2023-08-01T13:45:58+01:00
-draft: true
+draft: false
 author: "othman"
 ---
 
