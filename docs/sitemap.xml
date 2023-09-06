@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>www.elmajid.com/articles/</loc>
-    <lastmod>2023-09-05T12:50:52+01:00</lastmod>
+    <loc>www.elmajid.com/general/</loc>
+    <lastmod>2023-09-06T12:41:48+01:00</lastmod>
   </url><url>
     <loc>www.elmajid.com/</loc>
+    <lastmod>2023-09-06T12:41:48+01:00</lastmod>
+  </url><url>
+    <loc>www.elmajid.com/general/jimgoals/</loc>
+    <lastmod>2023-09-06T12:41:48+01:00</lastmod>
+  </url><url>
+    <loc>www.elmajid.com/articles/</loc>
     <lastmod>2023-09-05T12:50:52+01:00</lastmod>
   </url><url>
     <loc>www.elmajid.com/articles/startgate/</loc>
@@ -20,11 +26,11 @@
     <loc>www.elmajid.com/khitaba/</loc>
     <lastmod>2023-08-08T19:20:22+01:00</lastmod>
   </url><url>
+    <loc>www.elmajid.com/general/hacklife/</loc>
+    <lastmod>2023-08-06T12:54:37+01:00</lastmod>
+  </url><url>
     <loc>www.elmajid.com/articles/cto/</loc>
     <lastmod>2023-08-03T20:42:05+01:00</lastmod>
-  </url><url>
-    <loc>www.elmajid.com/general/</loc>
-    <lastmod>2023-08-01T13:45:58+01:00</lastmod>
   </url><url>
     <loc>www.elmajid.com/general/newhabit/</loc>
     <lastmod>2023-08-01T13:45:58+01:00</lastmod>
