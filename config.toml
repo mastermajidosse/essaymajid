@@ -22,6 +22,11 @@ relativeURLs = true
     weight = 3
 
   [[menu.main]]
+    name = "حرب"
+    url = "/war"
+    weight = 3
+
+  [[menu.main]]
     name = "اقتباسات"
     url = "/quotes"
     weight = 6
