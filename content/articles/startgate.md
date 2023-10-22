@@ -1,5 +1,5 @@
 ---
-title: "ستارتغايت"
+title: "حاضنة"
 date: 2023-09-05T12:50:52+01:00
 draft: false
 author: "othman"
