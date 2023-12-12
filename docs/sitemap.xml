@@ -2,28 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>www.elmajid.com/</loc>
-    <lastmod>2023-10-22T14:11:25+01:00</lastmod>
-  </url><url>
-    <loc>www.elmajid.com/war/</loc>
-    <lastmod>2023-10-22T14:11:25+01:00</lastmod>
-  </url><url>
-    <loc>www.elmajid.com/war/norespectforweak/</loc>
-    <lastmod>2023-10-22T14:11:25+01:00</lastmod>
-  </url><url>
-    <loc>www.elmajid.com/war/nextone/</loc>
-    <lastmod>2023-10-22T11:28:08+01:00</lastmod>
-  </url><url>
-    <loc>www.elmajid.com/war/iraqin20days/</loc>
-    <lastmod>2023-10-20T13:18:22+01:00</lastmod>
-  </url><url>
-    <loc>www.elmajid.com/war/whattheyneed/</loc>
-    <lastmod>2023-10-20T10:55:31+01:00</lastmod>
-  </url><url>
     <loc>www.elmajid.com/articles/</loc>
     <lastmod>2023-09-29T10:01:43+01:00</lastmod>
   </url><url>
     <loc>www.elmajid.com/articles/ecom1/</loc>
+    <lastmod>2023-09-29T10:01:43+01:00</lastmod>
+  </url><url>
+    <loc>www.elmajid.com/</loc>
     <lastmod>2023-09-29T10:01:43+01:00</lastmod>
   </url><url>
     <loc>www.elmajid.com/articles/money/</loc>
