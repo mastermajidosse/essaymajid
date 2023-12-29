@@ -1,7 +1,7 @@
 ---
 title: "افضل العرب في مجالاتهم"
 date: 2023-09-06T14:00:29+01:00
-draft: false
+draft: true
 author: "othman"
 ---
 

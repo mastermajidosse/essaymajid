@@ -1,7 +1,7 @@
 ---
 title: "Ecom1"
 date: 2023-09-29T10:01:43+01:00
-draft: false
+draft: true
 author: "othman"
 ---
 
