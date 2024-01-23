@@ -1,5 +1,5 @@
 ---
-title: "CTO"
+title: "سي تي او"
 date: 2023-08-03T20:42:05+01:00
 draft: false
 author: "othman"

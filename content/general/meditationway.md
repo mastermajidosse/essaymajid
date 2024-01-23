@@ -1,7 +1,7 @@
 ---
-title: "Meditationway"
+title: "خزعبلاتي ميديتشن"
 date: 2022-03-12T18:18:39+01:00
-draft: true
+draft: false
 author: "othman"
 ---
 

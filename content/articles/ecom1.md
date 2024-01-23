@@ -1,5 +1,5 @@
 ---
-title: "Ecom1"
+title: "ايكوم"
 date: 2023-09-29T10:01:43+01:00
 draft: true
 author: "othman"

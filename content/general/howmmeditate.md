@@ -1,9 +1,13 @@
 ---
-title: "Howmmeditate"
+title: "How meditate"
 date: 2023-07-12T18:16:29+01:00
-draft: true
+draft: false
 author: "othman"
 ---
+
+انجليزي دي يا مرسي
+
+اجابة منقولة من موقع كورا لهلا يعدبنا
 
 No matter what we all suggest the answer is - its up to you.
 

@@ -3,7 +3,6 @@ title: "قدرة خارقة"
 date: 2023-03-05T15:09:02+01:00
 draft: false
 author: "otmane"
-language: "English"
 ---
 
 ما هي أفضل مهارة يمكن ان تكتسبها في الحياة

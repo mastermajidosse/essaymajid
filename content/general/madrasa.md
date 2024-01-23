@@ -1,7 +1,7 @@
 ---
-title: "Madrasa"
+title: "مدرسة - متجدد"
 date: 2023-09-28T12:12:17+01:00
-draft: true
+draft: false
 author: "othman"
 ---
 
