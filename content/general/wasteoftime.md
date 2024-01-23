@@ -1,5 +1,5 @@
 ---
-title: "مضيعة للوقت"
+title: "مضيعة للوقت افلام"
 date: 2024-01-16T11:30:15+01:00
 draft: false
 author: "othman"
