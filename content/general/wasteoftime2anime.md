@@ -1,5 +1,5 @@
 ---
-title: "مضيعة للوقت مانغا"
+title: "مضيعة للوقت الأنمي"
 date: 2024-01-16T11:33:15+01:00
 draft: false
 author: "othman"
