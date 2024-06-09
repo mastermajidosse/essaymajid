@@ -2,10 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>www.elmajid.com/articles/</loc>
-    <lastmod>2024-03-05T11:50:30+01:00</lastmod>
+    <loc>www.elmajid.com/general/</loc>
+    <lastmod>2024-06-06T15:45:47+01:00</lastmod>
   </url><url>
     <loc>www.elmajid.com/</loc>
+    <lastmod>2024-06-06T15:45:47+01:00</lastmod>
+  </url><url>
+    <loc>www.elmajid.com/general/mehdialaoui/</loc>
+    <lastmod>2024-06-06T15:45:47+01:00</lastmod>
+  </url><url>
+    <loc>www.elmajid.com/general/gitexaftica2/</loc>
+    <lastmod>2024-06-02T15:42:55+01:00</lastmod>
+  </url><url>
+    <loc>www.elmajid.com/general/problemchaab/</loc>
+    <lastmod>2024-05-12T22:40:35+01:00</lastmod>
+  </url><url>
+    <loc>www.elmajid.com/general/nightcomefirst/</loc>
+    <lastmod>2024-03-16T21:12:17+00:00</lastmod>
+  </url><url>
+    <loc>www.elmajid.com/articles/</loc>
     <lastmod>2024-03-05T11:50:30+01:00</lastmod>
   </url><url>
     <loc>www.elmajid.com/articles/startgate2/</loc>
@@ -13,9 +28,6 @@
   </url><url>
     <loc>www.elmajid.com/articles/moharik/</loc>
     <lastmod>2024-03-05T11:25:30+01:00</lastmod>
-  </url><url>
-    <loc>www.elmajid.com/general/</loc>
-    <lastmod>2024-01-16T11:33:15+01:00</lastmod>
   </url><url>
     <loc>www.elmajid.com/general/wasteoftime2anime/</loc>
     <lastmod>2024-01-16T11:33:15+01:00</lastmod>
@@ -74,13 +86,25 @@
     <loc>www.elmajid.com/articles/startgate/</loc>
     <lastmod>2023-09-05T12:50:52+01:00</lastmod>
   </url><url>
+    <loc>www.elmajid.com/articles/appealofreading/</loc>
+    <lastmod>2023-08-24T13:01:16+01:00</lastmod>
+  </url><url>
     <loc>www.elmajid.com/articles/workformyself/</loc>
+    <lastmod>2023-08-12T13:01:15+01:00</lastmod>
+  </url><url>
+    <loc>www.elmajid.com/articles/malaoui/</loc>
     <lastmod>2023-08-12T13:01:15+01:00</lastmod>
   </url><url>
     <loc>www.elmajid.com/articles/belate/</loc>
     <lastmod>2023-08-11T15:02:25+01:00</lastmod>
   </url><url>
     <loc>www.elmajid.com/khitaba/</loc>
+    <lastmod>2023-08-08T19:20:22+01:00</lastmod>
+  </url><url>
+    <loc>www.elmajid.com/mastermind/</loc>
+    <lastmod>2023-08-08T19:20:22+01:00</lastmod>
+  </url><url>
+    <loc>www.elmajid.com/articles/whatisstartup/</loc>
     <lastmod>2023-08-08T19:20:22+01:00</lastmod>
   </url><url>
     <loc>www.elmajid.com/general/godmoney/</loc>
@@ -142,6 +166,9 @@
   </url><url>
     <loc>www.elmajid.com/tags/two/</loc>
     <lastmod>2023-05-05T15:07:41+01:00</lastmod>
+  </url><url>
+    <loc>www.elmajid.com/general/aniagiasi/</loc>
+    <lastmod>2023-03-15T22:07:22+01:00</lastmod>
   </url><url>
     <loc>www.elmajid.com/general/increaseproductivity/</loc>
     <lastmod>2023-03-15T22:07:22+01:00</lastmod>
