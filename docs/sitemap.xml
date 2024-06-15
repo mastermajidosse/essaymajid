@@ -2,11 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>www.elmajid.com/general/</loc>
-    <lastmod>2024-06-06T15:45:47+01:00</lastmod>
+    <loc>www.elmajid.com/articles/</loc>
+    <lastmod>2024-06-15T20:36:52+01:00</lastmod>
   </url><url>
     <loc>www.elmajid.com/</loc>
-    <lastmod>2024-06-06T15:45:47+01:00</lastmod>
+    <lastmod>2024-06-15T20:36:52+01:00</lastmod>
+  </url><url>
+    <loc>www.elmajid.com/articles/vesting/</loc>
+    <lastmod>2024-06-15T20:36:52+01:00</lastmod>
+  </url><url>
+    <loc>www.elmajid.com/articles/makeitabroad/</loc>
+    <lastmod>2024-06-15T12:37:05+01:00</lastmod>
+  </url><url>
+    <loc>www.elmajid.com/general/</loc>
+    <lastmod>2024-06-10T18:20:33+01:00</lastmod>
+  </url><url>
+    <loc>www.elmajid.com/general/women/</loc>
+    <lastmod>2024-06-10T18:20:33+01:00</lastmod>
   </url><url>
     <loc>www.elmajid.com/general/mehdialaoui/</loc>
     <lastmod>2024-06-06T15:45:47+01:00</lastmod>
@@ -16,12 +28,6 @@
   </url><url>
     <loc>www.elmajid.com/general/problemchaab/</loc>
     <lastmod>2024-05-12T22:40:35+01:00</lastmod>
-  </url><url>
-    <loc>www.elmajid.com/general/nightcomefirst/</loc>
-    <lastmod>2024-03-16T21:12:17+00:00</lastmod>
-  </url><url>
-    <loc>www.elmajid.com/articles/</loc>
-    <lastmod>2024-03-05T11:50:30+01:00</lastmod>
   </url><url>
     <loc>www.elmajid.com/articles/startgate2/</loc>
     <lastmod>2024-03-05T11:50:30+01:00</lastmod>
