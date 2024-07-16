@@ -1,7 +1,7 @@
 ---
 title: "كلمات عجيبة"
 date: 2024-01-15T11:30:15+01:00
-draft: false
+draft: true
 author: "othman"
 ---
 

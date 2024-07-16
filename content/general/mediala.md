@@ -1,5 +1,5 @@
 ---
-title: "smart city 2024"
+title: "سمارت سييتي"
 date: 2024-06-06T15:45:47+01:00
 draft: false
 author: "othman"
