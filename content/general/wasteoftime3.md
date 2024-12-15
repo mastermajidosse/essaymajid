@@ -1,7 +1,7 @@
 ---
 title: "مانغا"
 date: 2024-01-16T11:32:15+01:00
-draft: false
+draft: true
 author: "othman"
 ---
 

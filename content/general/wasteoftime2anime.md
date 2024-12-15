@@ -1,7 +1,7 @@
 ---
 title: "الأنمي"
 date: 2024-01-16T11:33:15+01:00
-draft: false
+draft: true
 author: "othman"
 ---
 

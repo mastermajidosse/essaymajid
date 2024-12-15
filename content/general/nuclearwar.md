@@ -1,7 +1,7 @@
 ---
 title: "الحرب النووية : شخصيات المسرحية"
 date: 2024-07-11T22:08:22+01:00
-draft: false
+draft: true
 author: "othman"
 ---
 
