@@ -11,11 +11,20 @@
     <loc>www.elmajid.com/articles/percpective/</loc>
     <lastmod>2024-08-13T08:09:46+01:00</lastmod>
   </url><url>
+    <loc>www.elmajid.com/general/</loc>
+    <lastmod>2024-08-11T22:08:22+01:00</lastmod>
+  </url><url>
+    <loc>www.elmajid.com/general/iraqwar/</loc>
+    <lastmod>2024-08-11T22:08:22+01:00</lastmod>
+  </url><url>
     <loc>www.elmajid.com/articles/gooto1/</loc>
     <lastmod>2024-07-15T20:01:29+01:00</lastmod>
   </url><url>
     <loc>www.elmajid.com/articles/gooto/</loc>
     <lastmod>2024-07-15T19:15:13+01:00</lastmod>
+  </url><url>
+    <loc>www.elmajid.com/general/warandwestface/</loc>
+    <lastmod>2024-07-11T22:08:22+01:00</lastmod>
   </url><url>
     <loc>www.elmajid.com/articles/vesting/</loc>
     <lastmod>2024-06-15T20:36:52+01:00</lastmod>
@@ -29,11 +38,11 @@
     <loc>www.elmajid.com/articles/gitexaftica2/</loc>
     <lastmod>2024-06-02T15:42:55+01:00</lastmod>
   </url><url>
-    <loc>www.elmajid.com/general/</loc>
-    <lastmod>2024-05-12T22:40:35+01:00</lastmod>
-  </url><url>
     <loc>www.elmajid.com/general/problemchaab/</loc>
     <lastmod>2024-05-12T22:40:35+01:00</lastmod>
+  </url><url>
+    <loc>www.elmajid.com/general/sometruth/</loc>
+    <lastmod>2024-03-11T22:08:22+01:00</lastmod>
   </url><url>
     <loc>www.elmajid.com/articles/startgate2/</loc>
     <lastmod>2024-03-05T11:50:30+01:00</lastmod>
@@ -202,5 +211,7 @@
   </url><url>
     <loc>www.elmajid.com/home/</loc>
     <priority>0</priority>
+  </url><url>
+    <loc>www.elmajid.com/general/almahdi/</loc>
   </url>
 </urlset>
